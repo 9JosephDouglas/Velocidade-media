@@ -1,0 +1,6 @@
+s = float(input("Digite o valor da viação de espaço:")) 
+t= float(input("Digite o valor de variação de tempo:")) 
+Vm = s/t
+
+print(f"A velocidade media é:{Vm}m/s")  
+print(f"A velocidade media é:{Vm}km/h") 

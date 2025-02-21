@@ -1,4 +1,4 @@
-s = float(input("Digite o valor da viação de espaço:")) 
+s = float(input("Digite o valor da variação de espaço:")) 
 t= float(input("Digite o valor de variação de tempo:")) 
 Vm = s/t
 
